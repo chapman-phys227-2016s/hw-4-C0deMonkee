@@ -14,7 +14,7 @@ The notebook should be formatted professionally using Markdown headings, includi
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+Fairly straightforward data manipulation, I happened to chose a place with little rainfall though.
 
 ## Honor Pledge
 
